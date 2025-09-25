@@ -1,0 +1,16 @@
+Nombre: Gabriel Lugo
+Edad: 49
+Calificaciones:
+   Programación logica funcional 7 SS: 85.0
+   Sistemas programables 7 SS: 88.0
+   Taller de investigación 2 Admin 4AS: 90.0
+   Gestión de proyectos Sist Ed 7 SS / 7 SE: 89.0
+------------------------------
+Nombre: Hilario Gimenez
+Edad: 44
+Calificaciones:
+   Programación logica funcional 7 SS: 90.0
+   Sistemas programables 7 SS: 95.0
+   Taller de investigación 2 Admin 4AS: 95.0
+   Gestión de proyectos Sist Ed 7 SS / 7 SE: 85.0
+------------------------------

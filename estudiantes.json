@@ -1,0 +1,46 @@
+[
+    {
+        "nombre": "Gabriel Lugo",
+        "edad": 49,
+        "calificaciones": [
+            {
+                "materia": "Programación logica funcional 7 SS",
+                "nota": 85.0
+            },
+            {
+                "materia": "Sistemas programables 7 SS",
+                "nota": 88.0
+            },
+            {
+                "materia": "Taller de investigación 2 Admin 4AS",
+                "nota": 90.0
+            },
+            {
+                "materia": "Gestión de proyectos Sist Ed 7 SS / 7 SE",
+                "nota": 89.0
+            }
+        ]
+    },
+    {
+        "nombre": "Hilario Gimenez",
+        "edad": 44,
+        "calificaciones": [
+            {
+                "materia": "Programación logica funcional 7 SS",
+                "nota": 90.0
+            },
+            {
+                "materia": "Sistemas programables 7 SS",
+                "nota": 95.0
+            },
+            {
+                "materia": "Taller de investigación 2 Admin 4AS",
+                "nota": 95.0
+            },
+            {
+                "materia": "Gestión de proyectos Sist Ed 7 SS / 7 SE",
+                "nota": 85.0
+            }
+        ]
+    }
+]
